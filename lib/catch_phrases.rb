@@ -10,5 +10,5 @@ def toadstool
 end
 def link 
   phrase = "It's Dangerous to go Alone! Take This."
-  print phrase
+  return  phrase
 end
